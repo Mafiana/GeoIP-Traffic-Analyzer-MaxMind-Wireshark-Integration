@@ -7,7 +7,7 @@ During packet analysis, IP addresses alone don't tell you much … a string of n
 - Wireshark
 - MaxMind GeoLite2 / GeoIP2 database
 
-  Setup & Installation
+
 
 ## Setup & Installation
 
